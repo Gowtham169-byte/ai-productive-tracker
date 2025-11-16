@@ -1,0 +1,5 @@
+{
+  "name": "quantum level productivity time tracker ",
+  "description": "An application to help users monitor and analyze their work sessions by meticulously recording the start and end times of user-defined tasks or work periods, and providing productivity insights.",
+  "requestFramePermissions": []
+}
